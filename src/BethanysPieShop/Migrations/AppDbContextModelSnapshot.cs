@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using BethanysPieShop.Models;
+using BethanysPieShop.Data;
 
 namespace BethanysPieShop.Migrations
 {

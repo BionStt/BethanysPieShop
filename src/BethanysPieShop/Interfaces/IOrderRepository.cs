@@ -1,4 +1,6 @@
-﻿namespace BethanysPieShop.Models
+﻿using BethanysPieShop.Models;
+
+namespace BethanysPieShop.Interfaces
 {
     public interface IOrderRepository
     {

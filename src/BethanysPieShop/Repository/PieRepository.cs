@@ -1,8 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
+using BethanysPieShop.Interfaces;
+using BethanysPieShop.Models;
+using BethanysPieShop.Data;
 
-namespace BethanysPieShop.Models
+namespace BethanysPieShop.Repository
 {
     public class PieRepository: IPieRepository
     {

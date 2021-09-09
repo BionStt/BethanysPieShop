@@ -21,7 +21,9 @@ using Microsoft.Extensions.Options;
 using Serilog;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.ResponseCompression;
-
+using BethanysPieShop.Data;
+using BethanysPieShop.Interfaces;
+using BethanysPieShop.Repository;
 
 namespace BethanysPieShop
 {

@@ -5,8 +5,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using BethanysPieShop.Auth;
+using BethanysPieShop.Models;
 
-namespace BethanysPieShop.Models
+namespace BethanysPieShop.Data
 {
     public class AppDbContext: IdentityDbContext<ApplicationUser>
     {

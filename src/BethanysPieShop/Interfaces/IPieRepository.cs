@@ -1,6 +1,7 @@
-﻿using System.Collections.Generic;
+﻿using BethanysPieShop.Models;
+using System.Collections.Generic;
 
-namespace BethanysPieShop.Models
+namespace BethanysPieShop.Interfaces
 {
     public interface IPieRepository
     {

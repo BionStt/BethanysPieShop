@@ -13,6 +13,7 @@ using Microsoft.ApplicationInsights.DataContracts;
 using Microsoft.Extensions.Caching.Memory;
 using System.Collections.Generic;
 using System.Linq;
+using BethanysPieShop.Interfaces;
 
 namespace BethanysPieShop.Controllers
 {
